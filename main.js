@@ -70,4 +70,5 @@ while ( opcion !== "5"){
         "Vuelva a ingresar una opcion: \n 1: Seguir comprando \n 2: Mostrar carrito  \n 3: Finalizar compra \n 4: Sugerir oferta \n 5: Salir"
     );
 }
+
 Swal.fire('Muchas gracias por comprar en PerifericosCba, Vuelva Prontos!')
