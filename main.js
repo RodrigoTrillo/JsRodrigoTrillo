@@ -67,8 +67,7 @@ while ( opcion !== "5"){
         mostrarOferta(arrayProductos);
     }
     opcion = prompt (
-        "Vuelva a ingresar una opcion: \n 1: Seguir comprando \n 2: Mostrar carrito  \n 3:  Finalizar compra \n 4: Sugerir oferta \n 5: Salir"
+        "Vuelva a ingresar una opcion: \n 1: Seguir comprando \n 2: Mostrar carrito  \n 3: Finalizar compra \n 4: Sugerir oferta \n 5: Salir"
     );
 }
-
-alert("Muchas gracias por comprar en PerifericosCba, Vuelva Prontos!")
+Swal.fire('Muchas gracias por comprar en PerifericosCba, Vuelva Prontos!')
