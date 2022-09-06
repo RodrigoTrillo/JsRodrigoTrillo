@@ -71,4 +71,4 @@ while ( opcion !== "5"){
     );
 }
 
-Swal.fire('Muchas gracias por comprar en PerifericosCba, Vuelva Prontos!')
+Swal.fire('Muchas gracias por comprar en TecladosCba, Vuelva Prontos!')
